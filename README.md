@@ -7,8 +7,7 @@
  <img src="https://img.shields.io/badge/typescript-B5B2FF?style=flat&logo=typescript&logoColor=white"/><br>
 	
  🌱[포트폴리오](https://yuls0202.github.io/index/)<br>
-👋'**공부**를 열심히 합시다'-임경민- <br>
-🌱[학교홍보]<br>
+ 🌱[학교홍보]<br>
 [net1](https://velvety-cupcake-9dc896.netlify.app/)or
 [git1](https://yuls0202.github.io/bsks/)<br>
 
